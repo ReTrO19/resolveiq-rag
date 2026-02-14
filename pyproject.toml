@@ -1,0 +1,14 @@
+[project]
+name = "kt-assist-proj-env"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "gradio>=6.5.1",
+    "langchain>=1.2.7",
+    "langchain-chroma>=1.1.0",
+    "langchain-community>=0.4.1",
+    "langchain-openai>=1.1.7",
+    "python-docx>=1.2.0",
+]

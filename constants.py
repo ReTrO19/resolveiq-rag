@@ -1,0 +1,6 @@
+MODEL_NAME = "gpt-4.1-nano"
+COLLECTION_NAME = "docs"
+EMBEDDING_MODEL = "text-embedding-3-small"
+RETRIEVAL_K = 5
+FINAL_K = 10
+AVERAGE_CHUNK_SIZE = 100
